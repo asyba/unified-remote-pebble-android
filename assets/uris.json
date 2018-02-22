@@ -1,0 +1,350 @@
+{
+	"1": {
+    "uriV1": "ur://remote/Relmtech.Power/Shutdown",
+	"uriV2": "ur://remote/Unified.Power/shutdown"
+    },
+	"2": {
+    "uriV1": "ur://remote/Relmtech.Power/Restart",
+	"uriV2": "ur://remote/Unified.Power/restart"
+    },
+	"3": {
+    "uriV1": "ur://remote/Relmtech.Power/Lock",
+	"uriV2": "ur://remote/Unified.Power/lock"
+    },
+	"4": {
+    "uriV1": "ur://remote/Relmtech.Power/Logoff",
+	"uriV2": "ur://remote/Unified.Power/logoff"
+    },
+	"5": {
+    "uriV1": "ur://remote/Relmtech.Power/Sleep",
+	"uriV2": "ur://remote/Unified.Power/sleep"
+    },
+	"6": {
+    "uriV1": "ur://remote/Relmtech.Power/Abort",
+	"uriV2": "ur://remote/Unified.Power/abort"
+    },
+	"11": {
+    "uriV1": "ur://remote/Relmtech.Monitor/Turn On",
+	"uriV2": "ur://remote/Unified.Monitor/turn_on"
+    },
+	"12": {
+    "uriV1": "ur://remote/Relmtech.Monitor/Turn Off",
+	"uriV2": "ur://remote/Unified.Monitor/turn_off"
+    },
+	"21": {
+    "uriV1": "ur://remote/Relmtech.VLC (Keyboard)/Play Pause",
+	"uriV2": "ur://remote/Unified.VLC/play_pause"
+    },
+	"22": {
+    "uriV1": "ur://remote/Relmtech.VLC (Keyboard)/Next",
+	"uriV2": "ur://remote/Unified.VLC/next"
+    },
+	"23": {
+    "uriV1": "ur://remote/Relmtech.VLC (Keyboard)/Previous",
+	"uriV2": "ur://remote/Unified.VLC/previous"
+    },
+	"24": {
+    "uriV1": "ur://remote/Relmtech.VLC (Keyboard)/Jump Forward",
+	"uriV2": "ur://remote/Unified.VLC/jump_forward"
+    },
+	"25": {
+    "uriV1": "ur://remote/Relmtech.VLC (Keyboard)/Jump Back",
+	"uriV2": "ur://remote/Unified.VLC/jump_back"
+    },
+	"41": {
+    "uriV1": "ur://remote/Relmtech.Media/Volume Up",
+	"uriV2": "ur://remote/Unified.Media/volume_up"
+    },
+	"42": {
+    "uriV1": "ur://remote/Relmtech.Media/Volume Down",
+	"uriV2": "ur://remote/Unified.Media/volume_down"
+    },
+	"43": {
+    "uriV1": "ur://remote/Relmtech.Media/Volume Mute",
+	"uriV2": "ur://remote/Unified.Media/volume_mute"
+    },
+	"26": {
+    "uriV1": "ur://remote/Relmtech.XBMC (Keyboard)/Play/Pause",
+	"uriV2": "ur://remote/Unified.XBMCKeyboard/play_pause"
+    },
+	"27": {
+    "uriV1": "ur://remote/Relmtech.XBMC (Keyboard)/Next",
+	"uriV2": "ur://remote/Unified.XBMCKeyboard/next"
+    },
+	"28": {
+    "uriV1": "ur://remote/Relmtech.XBMC (Keyboard)/Previous",
+	"uriV2": "ur://remote/Unified.XBMCKeyboard/previous"
+    },
+	"29": {
+    "uriV1": "ur://remote/Relmtech.XBMC (Keyboard)/Fast Forward",
+	"uriV2": "ur://remote/Unified.XBMCKeyboard/fast_forward"
+    },
+	"30": {
+    "uriV1": "ur://remote/Relmtech.XBMC (Keyboard)/Rewind",
+	"uriV2": "ur://remote/Unified..XBMCKeyboard/rewind"
+    },
+	"31": {
+    "uriV1": "ur://remote/Relmtech.Plex/Play Pause",
+	"uriV2": ""
+    },
+	"32": {
+    "uriV1": "ur://remote/Relmtech.Plex/Previous",
+	"uriV2": ""
+    },
+	"33": {
+    "uriV1": "ur://remote/Relmtech.Plex/Next",
+	"uriV2": ""
+    },
+	"34": {
+    "uriV1": "ur://remote/Relmtech.Plex/Forward",
+	"uriV2": ""
+    },
+	"35": {
+    "uriV1": "ur://remote/Relmtech.Plex/Rewind",
+	"uriV2": ""
+    },
+	"36": {
+    "uriV1": "ur://remote/Relmtech.Spotify/Play Pause",
+	"uriV2": "ur://remote/Unified.Spotify/play_pause"
+    },
+	"37": {
+    "uriV1": "ur://remote/Relmtech.Spotify/Next",
+	"uriV2": "ur://remote/Unified.Spotify/next"
+    },
+	"38": {
+    "uriV1": "ur://remote/Relmtech.Spotify/Previous",
+	"uriV2": "ur://remote/Unified.Spotify/previous"
+    },
+	"44": {
+    "uriV1": "ur://remote/Relmtech.iTunes/Play Pause",
+	"uriV2": "ur://remote/Unified.iTunes/play_pause"
+    },
+	"45": {
+    "uriV1": "ur://remote/Relmtech.iTunes/Next",
+	"uriV2": "ur://remote/Unified.iTunes/next"
+    },
+	"46": {
+    "uriV1": "ur://remote/Relmtech.iTunes/Previous",
+	"uriV2": "ur://remote/Unified.iTunes/previous"
+    },
+	"47": {
+    "uriV1": "ur://remote/Relmtech.iTunes/Fast Forward",
+	"uriV2": "ur://remote/Unified.iTunes/forward"
+    },
+	"48": {
+    "uriV1": "ur://remote/Relmtech.iTunes/Rewind",
+	"uriV2": "ur://remote/Unified.iTunes/rewind"
+    },
+	"51": {
+    "uriV1": "ur://remote/Itablish.Custom Windows/open explorer",
+	"uriV2": "ur://remote/Unified.Windows/explorer"
+    },
+	"52": {
+    "uriV1": "ur://remote/Itablish.Custom Windows/run",
+	"uriV2": "ur://remote/Unified.Windows/run"
+    },
+	"53": {
+    "uriV1": "ur://remote/Itablish.Custom Windows/minimize all",
+	"uriV2": "ur://remote/Unified.Windows/minimize_all"
+    },
+	"61": {
+    "uriV1": "ur://remote/Relmtech.PowerPoint Basic/Next",
+	"uriV2": "ur://remote/Unified.PowerPointBasic/next"
+    },
+	"62": {
+    "uriV1": "ur://remote/Relmtech.PowerPoint Basic/Previous",
+	"uriV2": "ur://remote/Unified.PowerPointBasic/previous"
+    },
+	"63": {
+    "uriV1": "ur://remote/Relmtech.PowerPoint Basic/Black",
+	"uriV2": "ur://remote/Unified.PowerPointBasic/black"
+    },
+	"64": {
+    "uriV1": "ur://remote/Relmtech.PowerPoint Basic/White",
+	"uriV2": "ur://remote/Unified.PowerPoint Basic/white"
+    },
+	"65": {
+    "uriV1": "ur://remote/Relmtech.PowerPoint Basic/Start",
+	"uriV2": "ur://remote/Unified.PowerPointBasic/show_start"
+    },
+	"66": {
+    "uriV1": "ur://remote/Relmtech.PowerPoint Basic/End",
+	"uriV2": "ur://remote/Unified.PowerPointBasic/show_end"
+    },
+	"71": {
+    "uriV1": "ur://remote/Relmtech.Chrome/Home",
+	"uriV2": "ur://remote/Unified.Chrome/home"
+    },
+	"72": {
+    "uriV1": "ur://remote/Relmtech.Chrome/Refresh",
+	"uriV2": "ur://remote/Unified.Chrome/refresh"
+    },
+	"73": {
+    "uriV1": "ur://remote/Relmtech.Chrome/Back",
+	"uriV2": "ur://remote/Unified.Chrome/back"
+    },
+	"74": {
+    "uriV1": "ur://remote/Relmtech.Chrome/Forward",
+	"uriV2": "ur://remote/Unified.Chrome/forward"
+    },
+	"75": {
+    "uriV1": "ur://remote/Relmtech.Chrome/Previous Tab",
+	"uriV2": "ur://remote/Unified.Chrome/previous_tab"
+    },
+	"76": {
+    "uriV1":  "ur://remote/Relmtech.Chrome/Next Tab",
+	"uriV2": "ur://remote/Unified.Chrome/next_tab"
+    },
+	"77": {
+    "uriV1": "ur://remote/Relmtech.Chrome/Scroll Up",
+	"uriV2": "ur://remote/Unified.Chrome/scroll_up"
+    },
+	"78": {
+    "uriV1": "ur://remote/Relmtech.Chrome/Scroll Down",
+	"uriV2": "ur://remote/Unified.Chrome/scroll_down"
+    },
+	"81": {
+    "uriV1": "ur://remote/Relmtech.Netflix/Play Pause",
+	"uriV2": "ur://remote/Unified.YouTubeWeb/play_pause"
+    },
+	"82": {
+    "uriV1": "ur://remote/Relmtech.YouTube/Next",
+	"uriV2": "ur://remote/Unified.YouTubeWeb/next"
+    },
+	"83": {
+    "uriV1": "ur://remote/Relmtech.YouTube/Previous",
+	"uriV2": "ur://remote/Unified.YouTubeWeb/previous"
+    },
+	"84": {
+    "uriV1": "ur://remote/Relmtech.YouTube/Fast Forward",
+	"uriV2": "ur://remote/Unified.YouTubeWeb/fast_forward"
+    },
+	"85": {
+    "uriV1": "ur://remote/Relmtech.YouTube/Rewind",
+	"uriV2": "ur://remote/Unified.YouTubeWeb/rewind"
+    },
+	"91": {
+    "uriV1": "ur://remote/Relmtech.Netflix/Play Pause",
+	"uriV2": "ur://remote/Unified.NetflixWeb/play_pause"
+    },
+	"92": {
+    "uriV1": "ur://remote/Relmtech.Netflix/Fast Forward",
+	"uriV2": "ur://remote/Unified.NetflixWeb/forward"
+    },
+	"93": {
+    "uriV1": "ur://remote/Relmtech.Netflix/Rewind",
+	"uriV2": "ur://remote/Unified.NetflixWeb/rewind"
+    },
+	"94": {
+    "uriV1": "ur://remote/Relmtech.Pandora/Play Pause",
+	"uriV2": "ur://remote/Unified.Pandora/play_pause"
+    },
+	"95": {
+    "uriV1": "ur://remote/Relmtech.Pandora/Next",
+	"uriV2": "ur://remote/Unified.Pandora/next"
+    },
+	"96": {
+    "uriV1": "ur://remote/Relmtech.Pandora/Thumbs Up",
+	"uriV2": "ur://remote/Unified.Pandora/thumbs_up"
+    },
+	"97": {
+    "uriV1": "ur://remote/Relmtech.Pandora/Thumbs Down",
+	"uriV2": "ur://remote/Unified.Pandora/thumbs_down"
+    },
+	"98": {
+    "uriV1": "ur://remote/Relmtech.foobar2000/Play Pause",
+	"uriV2": "ur://remote/Unified.foobar2000/play_pause"
+    },
+	"99": {
+    "uriV1": "ur://remote/Relmtech.foobar2000/Next",
+	"uriV2": "ur://remote/Unified.foobar2000/next"
+    },
+	"100": {
+    "uriV1": "ur://remote/Relmtech.foobar2000/Previous",
+	"uriV2": "ur://remote/Unified.foobar2000/previous"
+    },
+	"101": {
+    "uriV1": "ur://remote/Relmtech.foobar2000/Stop",
+	"uriV2": "ur://remote/Unified.foobar2000/stop"
+    },
+	"102": {
+    "uriV1": "ur://remote/Relmtech.MediaMonkey/Play Pause",
+	"uriV2": "ur://remote/Unified.MediaMonkey/play_pause"
+    },
+	"103": {
+    "uriV1": "ur://remote/Relmtech.MediaMonkey/Next",
+	"uriV2": "ur://remote/Unified.MediaMonkey/next"
+    },
+	"104": {
+    "uriV1": "ur://remote/Relmtech.MediaMonkey/Previous",
+	"uriV2": "ur://remote/Unified.MediaMonkey/previous"
+    },
+	"105": {
+    "uriV1": "ur://remote/Relmtech.MediaMonkey/Stop",
+	"uriV2": "ur://remote/Unified.MediaMonkey/stop"
+    },
+	"106": {
+    "uriV1": "ur://remote/Relmtech.Windows Media Player/Play Pause",
+	"uriV2": "ur://remote/Unified.WindowsMediaPlayer/play_pause"
+    },
+	"107": {
+    "uriV1": "ur://remote/Relmtech.Windows Media Player/Next",
+	"uriV2": "ur://remote/Unified.WindowsMediaPlayer/next"
+    },
+	"108": {
+    "uriV1": "ur://remote/Relmtech.Windows Media Player/Previous",
+	"uriV2": "ur://remote/Unified.WindowsMediaPlayer/previous"
+    },
+	"109": {
+    "uriV1": "ur://remote/Relmtech.Windows Media Player/Stop",
+	"uriV2": "ur://remote/Unified.WindowsMediaPlayer/stop"
+    },
+	"110": {
+    "uriV1": "ur://remote/Relmtech.Media/Play Pause",
+	"uriV2": "ur://remote/Unified.Media/play_pause"
+    },
+	"111": {
+    "uriV1": "ur://remote/Relmtech.Media/Next",
+	"uriV2": "ur://remote/Unified.Media/next"
+    },
+	"112": {
+    "uriV1": "ur://remote/Relmtech.Media/Previous",
+	"uriV2": "ur://remote/Unified.Media/previous"
+    },
+	"113": {
+    "uriV1": "ur://remote/Relmtech.Media/Stop",
+	"uriV2": "ur://remote/Unified.Media/stop"
+    },
+	"114": {
+    "uriV1": "ur://remote/Relmtech.Winamp/Play Pause",
+	"uriV2": "ur://remote/Unified.Winamp/play_pause"
+    },
+	"115": {
+    "uriV1": "ur://remote/Relmtech.Winamp/Next",
+	"uriV2": "ur://remote/Unified.Winamp/next"
+    },
+	"116": {
+    "uriV1": "ur://remote/Relmtech.Winamp/Previous",
+	"uriV2": "ur://remote/Unified.Winamp/previous"
+    },
+	"117": {
+    "uriV1": "ur://remote/Relmtech.Winamp/Stop",
+	"uriV2": "ur://remote/Unified.Winamp/stop"
+    },
+	"118": {
+    "uriV1": "ur://remote/Relmtech.Slide Show/Next",
+	"uriV2": "ur://remote/Unified.SlideShow/next"
+    },
+	"119": {
+    "uriV1": "ur://remote/Relmtech.Slide Show/Previous",
+	"uriV2": "ur://remote/Unified.SlideShow/previous"
+    },
+	"120": {
+    "uriV1": "ur://remote/Relmtech.Slide Show/Start",
+	"uriV2": "ur://remote/Unified.SlideShow/show_start"
+    },
+	"121": {
+    "uriV1": "ur://remote/Relmtech.Slide Show/End",
+	"uriV2": "ur://remote/Unified.SlideShow/show_end"
+    }
+}
